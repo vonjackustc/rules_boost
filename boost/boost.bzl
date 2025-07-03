@@ -178,7 +178,7 @@ def boost_deps():
         ]
     )
 
-    SOURCEFORGE_MIRRORS = ["cfhcable", "superb-sea2", "cytranet", "iweb", "gigenet", "ayera", "astuteinternet", "pilotfiber", "svwh"]
+    SOURCEFORGE_MIRRORS = ["cyfuture", "jaist", "zenlayer"]
 
     maybe(
         http_archive,
